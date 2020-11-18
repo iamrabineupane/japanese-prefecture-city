@@ -1,6 +1,6 @@
 {
   "name": "japanese-prefecture-city",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "get japanese prefecture and address when you pass the full address",
   "main": "index.js",
   "scripts": {
