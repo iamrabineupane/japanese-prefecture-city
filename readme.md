@@ -1,1 +1,1 @@
-# a simple package for braking down the japanese address
+# a simple package for breaking down the japanese address
