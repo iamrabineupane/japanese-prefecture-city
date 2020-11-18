@@ -1,4 +1,8 @@
-# a simple package for breaking down the japanese address
+# Overview
+
+A simple package for breaking down the japanese address
+
+# Instalation
 
         npm install japanese-prefecture-city
 
@@ -9,5 +13,7 @@
         const addresses = poo(allAddress);
 
         console.log(addresses);
+
+        //{ prefecture: '東京都', city: '相模原市南区' }
 
 you can break down all 46 prefecture address by this package
