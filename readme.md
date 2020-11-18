@@ -9,3 +9,5 @@
         const addresses = poo(allAddress);
 
         console.log(addresses);
+
+you can break down all 46 prefecture address by this package
