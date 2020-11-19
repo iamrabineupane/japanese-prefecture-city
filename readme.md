@@ -18,7 +18,6 @@ A simple package for breaking down the japanese address
 
         //{ prefecture: '東京都', city: '相模原市南区' }
 
-
 # nuxtJs Project
 
         import japanesePrefectureCity from "japanese-prefecture-city";
@@ -35,7 +34,6 @@ A simple package for breaking down the japanese address
         { prefecture: '東京都', city: '相模原市南区' }
 
 you can break down all 47 prefecture address by this package
-
 
 # github
 
