@@ -12,7 +12,7 @@ A simple package for breaking down the japanese address
 
         const address = require("japanese-prefecture-city");
         const allAddress = "東京都相模原市南区";
-        const addresses = poo(allAddress);
+        const addresses = address(allAddress);
 
         console.log(addresses);
 
